@@ -1,0 +1,5 @@
+print("welcome to learn Python programming ")
+print("Your name")
+
+print ("what ever you write in quotation mark displayed as it is")
+
